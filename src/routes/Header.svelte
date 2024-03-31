@@ -1,5 +1,6 @@
 <script>
 	import { page } from '$app/stores';
+	import {base} from '$app/paths';
 	import logo from '$lib/images/logo.webp';
 
 	let open = false;
@@ -12,22 +13,22 @@
 	<nav>
 		<ul>
 			<li aria-current={$page.url.pathname === '/'}>
-				<a href="/">HOME</a>
+				<a href="{base}/">HOME</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/'}>
-				<a href="/#EXPERIENCE">EXPERIENCE</a>
+				<a href="{base}/#EXPERIENCE">EXPERIENCE</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/'}>
-				<a href="/#EDUCATION">EDUCATION</a>
+				<a href="{base}/#EDUCATION">EDUCATION</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/'}>
-				<a href="/#SKILLS">SKILLS</a>
+				<a href="{base}/#SKILLS">SKILLS</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/portfolio'}>
-				<a href="/portfolio">PORTFOLIO</a>
+				<a href="{base}/portfolio">PORTFOLIO</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/about'}>
-				<a href="/about">ABOUT ME</a>
+				<a href="{base}/about">ABOUT ME</a>
 			</li>
 		</ul>
 	</nav>

@@ -2,6 +2,7 @@
     import { fly, scale } from 'svelte/transition';
     import { quadOut } from 'svelte/easing';
 	import { Hamburger } from 'svelte-hamburgers';
+	import {base} from '$app/paths';
 
 	let open = false;
 </script>
@@ -10,19 +11,19 @@
 	<Hamburger bind:open />
 	{#if open}
 	<div class="overlay">
-		<a class="mobile-menu-text" href="/#HOME"transition:fly={{ y: -15, delay: 50 * 0 }} on:click={() => (open = !open)}>
+		<a class="mobile-menu-text" href="{base}/#HOME"transition:fly={{ y: -15, delay: 50 * 0 }} on:click={() => (open = !open)}>
 			HOME
 		</a>
-		<a class="mobile-menu-text" href="/#EXPERIENCE"transition:fly={{ y: -15, delay: 50 * 1 }} on:click={() => (open = !open)}>
+		<a class="mobile-menu-text" href="{base}/#EXPERIENCE"transition:fly={{ y: -15, delay: 50 * 1 }} on:click={() => (open = !open)}>
 			EXPERIENCE
 		</a>
-		<a class="mobile-menu-text" href="/#EDUCATION"transition:fly={{ y: -15, delay: 50 * 2 }} on:click={() => (open = !open)}>
+		<a class="mobile-menu-text" href="{base}/#EDUCATION"transition:fly={{ y: -15, delay: 50 * 2 }} on:click={() => (open = !open)}>
 			EDUCATION
 		</a>
-		<a class="mobile-menu-text" href="/portfolio"transition:fly={{ y: -15, delay: 50 * 3 }} on:click={() => (open = !open)}>
+		<a class="mobile-menu-text" href="{base}/portfolio"transition:fly={{ y: -15, delay: 50 * 3 }} on:click={() => (open = !open)}>
 			PORTFOLIO
 		</a>
-		<a class="mobile-menu-text" href="/about"transition:fly={{ y: -15, delay: 50 * 4 }} on:click={() => (open = !open)}>
+		<a class="mobile-menu-text" href="{base}/about"transition:fly={{ y: -15, delay: 50 * 4 }} on:click={() => (open = !open)}>
 			ABOUT ME
 		</a>
 	</div>
