@@ -14,9 +14,9 @@ const config = {
 		adapter: adapter({
 			fallback: '404.html'
 		}),
-		// paths: {
-		// 	base: `/kycdental`,
-		// },
+		paths: {
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
+		},
 		// files: {
 		// 	lib: "kycdental/src/lib"
 		// }
