@@ -16,7 +16,7 @@
 		innerWidth = window.innerWidth
 	}
 
-	const images = import.meta.glob('./portfolio/*', { eager: true});
+	const images = import.meta.glob('$lib/portfolio/*', { eager: true});
 	console.log(images);
 	let cols = Math.trunc((innerWidth-100)/350);
 	let imgCols = splitToNChunks(Object.keys(images), cols);
