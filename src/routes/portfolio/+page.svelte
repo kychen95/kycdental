@@ -1,26 +1,13 @@
-<script lang="ts">
-	import { browser } from '$app/environment';
-	import MediaQuery from "svelte-media-queries";
-	import logo from '$lib/images/logo.webp';
-	import teethMobile from '$lib/images/teeth-mobile.webp';
-	import teeth from '$lib/images/teeth.webp';
-	import insta from '$lib/images/insta-logo-color.webp';
-	import { Lightbox } from 'svelte-lightbox';
+<script context="module">
+	const images = import.meta.glob('/static/portfolio/*');
+	const paths = Object.keys(images);
+	
+	let finalPaths = [];
+	paths.forEach(path => {
+		finalPaths.push(new URL(path.slice(7), import.meta.url));
+	});
+	const imgCols = splitToNChunks(finalPaths, 5);
 
-	$: outerWidth = 0
-	$: innerWidth = 1600
-	$: outerHeight = 0
-	$: innerHeight = 0
-
-	if (browser) {
-		innerWidth = window.innerWidth
-	}
-
-	const images = import.meta.glob('$lib/portfolio/*', { eager: true});
-	console.log(images);
-	let cols = Math.trunc((innerWidth-100)/350);
-	let imgCols = splitToNChunks(Object.keys(images), cols);
-	console.log(imgCols);
 	function splitToNChunks(array, n) {
 		let result = [];
 		for (let i = 0; i < array.length; i++) {
@@ -34,7 +21,15 @@
 	}
 </script>
 
-<svelte:window bind:innerWidth bind:outerWidth bind:innerHeight bind:outerHeight />
+<script lang="ts">
+	import { browser } from '$app/environment';
+	import MediaQuery from "svelte-media-queries";
+	import logo from '$lib/images/logo.webp';
+	import teethMobile from '$lib/images/teeth-mobile.webp';
+	import teeth from '$lib/images/teeth.webp';
+	import insta from '$lib/images/insta-logo-color.webp';
+	import { Lightbox } from 'svelte-lightbox';
+</script>
 
 <svelte:head>
 	<title>Portfolio</title>
@@ -117,7 +112,7 @@
 				</div>
 			</div>
 			<div class="mobile-portfolio-images">
-				{#each Object.keys(images) as image}
+				{#each finalPaths as image}
 					<Lightbox>
 						<img class="mobile-port-img fadeIn" src="{image}" alt="portfolio" />
 					</Lightbox>

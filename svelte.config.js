@@ -15,10 +15,13 @@ const config = {
 		// paths: {
 		// 	base: "/kycdental",
 		// },
-		// files: {
-		// 	lib: "kycdental/src/lib",
+		// alias: {
+		// 	$img: "",
 		// },
-	}
+		// files: {
+		// 	lib: mode === "production" ? "/" : "/src/lib/images",
+		// },
+	},
 };
 
 export default config;
