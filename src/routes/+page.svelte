@@ -37,12 +37,12 @@
 						<p class="slideFromRight profile-p">San Francisco, CA</p>
 					</div>
 					<div class="resumecv slideFromLeft">
-						<a class="rbutton .profile-p" href="https://www.kycdental.com/_files/ugd/7b5715_692e729703874218bff21366a2623872.pdf">
+						<a class="rbutton .profile-p" href="https://kycdental.com/resume.pdf">
 						Resume
 						</a>
-						<a class="rbutton .profile-p" href="https://www.kycdental.com/_files/ugd/7b5715_cf690bdac2ba4e7598cab992f90dcf71.pdf">
+						<!-- <a class="rbutton .profile-p" href="https://kycdental.com/cv.pdf">
 						Full CV
-						</a>
+						</a> -->
 					</div>
 				</div>
 			</div>
@@ -303,7 +303,7 @@
 						</div>
 					</div>
 				</div>
-				<a class="rbutton exp-button profile-p fadeIn" href="https://www.kycdental.com/_files/ugd/7b5715_cf690bdac2ba4e7598cab992f90dcf71.pdf">Download Full CV</a>
+				<a class="rbutton exp-button profile-p fadeIn" href="https://kycdental.com/cv.pdf">Download Full CV</a>
 			</div>
 		</div>
 		<div id="EDUCATION" class="education-banner">
@@ -384,7 +384,7 @@
 							</div>
 							<div class="skills-item wipeFromLeft">
 								<h4 class="skills-text">
-									Computer Tech and Construction
+									Computer Construction
 								</h4>
 							</div>
 							<div class="skills-item wipeFromLeft">
@@ -442,12 +442,12 @@
 						<h4 class="slideFromLeft mobile-h4">Location:</h4>
 						<p class="slideFromRight">San Francisco, CA</p>
 						<div class="mobile-resumecv slideFromLeft">
-							<a class="mobile-rbutton" href="https://www.kycdental.com/_files/ugd/7b5715_692e729703874218bff21366a2623872.pdf">
+							<a class="mobile-rbutton" href="https://kycdental.com/resume.pdf">
 							Resume
 							</a>
-							<a class="mobile-rbutton" href="https://www.kycdental.com/_files/ugd/7b5715_cf690bdac2ba4e7598cab992f90dcf71.pdf">
+							<!-- <a class="mobile-rbutton" href="https://kycdental.com/cv.pdf">
 							Full CV
-							</a>
+							</a> -->
 						</div>
 					</div>
 					<div class="mobile-socials">
@@ -471,7 +471,7 @@
 			<div id="EXPERIENCE" class="mobile-experience-banner">
 				<div class="mobile-experience">
 					<h1 class="fadeIn mobile-h1">EXPERIENCE</h1>
-					<a class="mobile-rbutton scaleFromCenter" href="https://www.kycdental.com/_files/ugd/7b5715_cf690bdac2ba4e7598cab992f90dcf71.pdf">
+					<a class="mobile-rbutton scaleFromCenter" href="https://kycdental.com/cv.pdf">
 						Download Full CV
 					</a>
 				</div>
@@ -552,7 +552,7 @@
 						</div>
 						<div class="mobile-skills-item wipeFromLeft">
 							<h4 class="mobile-skills-text mobile-h4">
-								Computer Tech and Construction
+								Computer Construction
 							</h4>
 						</div>
 						<div class="mobile-skills-item wipeFromLeft">
