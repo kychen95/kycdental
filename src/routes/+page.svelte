@@ -4,8 +4,8 @@
 	import logo from '$lib/images/logo.webp';
 	import insta from '$lib/images/insta-logo.webp';
 	import linkedin from '$lib/images/linkedin-logo.webp';
-	import skillsbg from '$lib/images/background.webp';
-	import mobileskillsbg from '$lib/images/mobile-bg.jpg';
+	import skillsbg from '$lib/images/skills_background.png';
+	import mobileskillsbg from '$lib/images/skills_background.png';
     import { scale } from 'svelte/transition';
     import { quadOut } from 'svelte/easing';
 </script>

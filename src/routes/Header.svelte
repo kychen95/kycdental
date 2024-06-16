@@ -89,7 +89,7 @@
 	.logo {
 		display: flex;
 		align-items: center;
-		padding-left: 25%;
+		padding-left: 5%;
 		background: var(--background);
 		background-size: contain;
 	}

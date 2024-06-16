@@ -4,7 +4,7 @@ import { defineConfig } from 'vite';
 export default defineConfig(({ mode }) => ({
 	// base: "/kycdental/",
 	server: {
-		host: "192.168.165.219",
+		host: "172.21.4.141",
 	},
 	// resolve: {
 	// 	alias: {
