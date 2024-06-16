@@ -488,6 +488,7 @@
 							<h4 class="mobile-h4">
 							University of California, San Francisco
 							<br>
+							<br>
 							San Francisco Veterans Affair Medical Center
 							</h4>
 						</div>

@@ -26,7 +26,7 @@
 	import MediaQuery from "svelte-media-queries";
 	import logo from '$lib/images/logo.webp';
 	import teethMobile from '$lib/images/teeth-mobile.webp';
-	import teeth from '$lib/images/teeth.webp';
+	import teeth from '$lib/images/DSC07352.jpg';
 	import insta from '$lib/images/insta-logo-color.webp';
 	import { Lightbox } from 'svelte-lightbox';
 </script>
@@ -143,8 +143,9 @@
 		margin-top: 2.5em;
 		margin-bottom: 2.5em;
 		justify-content: center;
-		width: 90%;
-		height: 530px;}
+		max-height: 530px;
+		overflow: hidden;
+		width: 90%;}
 	.portfolio {
 		display: flex;
 		flex-direction: column;
@@ -152,23 +153,22 @@
 		padding-right: 8vw;
 		justify-content: center;
 		align-items: center;
+		width: 30vw;
+		overflow: auto;
 		background-color: white;}
 	.portfolio-header {
-		width: 715px;
 		font-size: 3.5em;
     	font-family:"Avenir-LT-W01_35-Light1475496";
 		margin-bottom: 0.25em;
 		color: var(--color-theme-1);}
 	.portfolio-text {
-		width: 500px;
+		width: auto;
 		text-align: left;
     	font-family:"Avenir-LT-W01_35-Light1475496";
 		color: var(--color-theme-1);}
 	.teeth {
 		display: block;
-		height: 530px;
-		width: auto;
-		overflow: hidden;
+		max-height: 530px;
 		position: relative;}
 	.portfolio-images {
 		display: flex;
