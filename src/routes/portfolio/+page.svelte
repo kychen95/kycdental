@@ -58,7 +58,7 @@
 						Diffuser - Fixlite
 					</p>
 					<div class="socials">
-						<a class="social-button fadeIn" href="https://www.instagram.com/kevinchendmd">
+						<a class="social-button portfolio-social fadeIn" href="https://www.instagram.com/kevinchendmd">
 							<img src={insta} alt="kycdental" />
 						</a>
 					</div>
@@ -145,19 +145,19 @@
 		justify-content: center;
 		max-height: 530px;
 		overflow: hidden;
-		width: 90%;}
+		height: 20vw;}
 	.portfolio {
 		display: flex;
 		flex-direction: column;
-		padding-left: 8vw;
-		padding-right: 8vw;
+		padding-left: 6vw;
+		padding-right: 6vw;
 		justify-content: center;
 		align-items: center;
-		width: 30vw;
+		width: 40vw;
 		overflow: auto;
 		background-color: white;}
 	.portfolio-header {
-		font-size: 3.5em;
+		font-size: 1.75vw;
     	font-family:"Avenir-LT-W01_35-Light1475496";
 		margin-bottom: 0.25em;
 		color: var(--color-theme-1);}
@@ -165,9 +165,17 @@
 		width: auto;
 		text-align: left;
     	font-family:"Avenir-LT-W01_35-Light1475496";
+		font-size: 0.8vw;
+		margin-top: 0.3vw;
+		margin-bottom: 0.3vw;
 		color: var(--color-theme-1);}
+	.portfolio-social {
+		display: flex;
+		height: 2.5vw;
+		width: 2.5vw;}
 	.teeth {
-		display: block;
+		display: flex;
+		height: 100%;
 		max-height: 530px;
 		position: relative;}
 	.portfolio-images {
