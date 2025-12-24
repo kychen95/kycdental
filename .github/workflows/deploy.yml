@@ -23,6 +23,11 @@ jobs:
           node-version: 20
           cache: npm
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        with:
+          static_site_generator: sveltekit
+        
       - name: Install dependencies
         run: npm install
 
