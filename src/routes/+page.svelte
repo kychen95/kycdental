@@ -24,10 +24,10 @@
 				<div class="profile-info">
 					<div class="profile-text">
 						<h3 class="slideFromLeft desktop-h3">Dr. Kevin Chen</h3>
-						<h4 class="slideFromRight desktop-h4">Prosthodontic Resident</h4>
+						<h4 class="slideFromRight desktop-h4">Prosthodontist</h4>
 						<h4 class="slideFromLeft desktop-h4">Education:</h4>
 						<p class="slideFromRight profile-p">
-						UCSF/SFVA - Prosthodontic Residency
+						UCSF/SFVA Prosthodontics
 						<br>
 						Maurice H. Kornberg School of Dentistry - DMD
 						</p>
@@ -430,10 +430,10 @@
 					<img class="mobile-headshot scaleFromCenter" src={headshot} alt="headshot" />
 					<div class="mobile-profile-text">
 						<h3 class="slideFromLeft mobile-h3">Dr. Kevin Chen</h3>
-						<h4 class="slideFromRight mobile-h4">Prosthodontic Resident</h4>
+						<h4 class="slideFromRight mobile-h4">Prosthodontist</h4>
 						<h4 class="slideFromLeft mobile-h4">Education:</h4>
 						<p class="slideFromRight">
-						UCSF/SFVA - Prosthodontic Residency
+						UCSF/SFVA Prosthodontics
 						<br>
 						Maurice H. Kornberg School of Dentistry - DMD
 						</p>
