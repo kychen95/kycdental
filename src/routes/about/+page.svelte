@@ -44,13 +44,16 @@
 					<div class="welcome-text-box">
 						<h1 class="welcome-header slideFromLeft">Welcome!</h1>
 						<p class="welcome-text slideFromRight">
-							My name is Dr. Kevin Chen and I am currently a first year Prosthodontic Resident at the San Francisco Veterans Affairs Medical Center in conjunction with the University of California San Francisco (UCSF). I obtained a BA Chemistry and Asian Studies degree from UNC Chapel Hill in 2017 and obtained my Doctorate of Dental Medicine at Kornberg School of Dentistry at Temple University (KSoD) in 2022. Before going into residency, I practiced as a full-time clinical faculty at KSoD as well as worked in a community clinic and private practice.
+							My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies in 2017, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University in 2022.
 						</p>
 						<p class="welcome-text slideFromLeft">
-							During my time at Temple Dental, I developed a strong interest in Prosthodontics and Digital Dentistry. Additionally, with my experience in technology, art, photography, and design, I hope to bridge these skills of mine to show the quality of work I can deliver to patients through this portfolio. I always strive to learn with a strong foundation while pushing the boundaries of dentistry through innovation and creativity. I hope you can follow me on this wonderful journey!
+							Prior to residency, I served as a full-time clinical faculty at my alma mater while also practicing in both community health and private practice settings. I then completed my specialty training in Prosthodontics through the San Francisco Veterans Affairs Medical Center and the University of California, San Francisco (UCSF), where I had the privilege of caring for our nation's veterans.
 						</p>
 						<p class="welcome-text slideFromRight">
-							I like to hike, boulder, and play tennis on my free time. Traveling and eating new foods are activities that I enjoy outside of practicing dentistry. 
+							My passion for prosthodontics is rooted in precision and artistry. By combining my background in visual arts, photography, and design with advanced dental technology, I strive to elevate the standard of patient care and showcase the meticulous craftsmanship behind every restoration. I believe in practicing with a strong, evidence-based foundation while continuously pushing the boundaries of modern dentistry through innovation and creativity which hopefully shows through my portfolio here. 
+						</p>
+						<p class="welcome-text slideFromLeft">
+							Outside of dentistry, you can usually find me outdoors hiking, bouldering, or playing tennis. I am also an avid traveler and foodie who loves exploring new cultures and cuisines.
 						</p>
 					</div>
 				</div>
@@ -112,13 +115,16 @@
 				<div class="mobile-welcome">
 					<h1 class="mobile-portfolio-header fadeIn">Welcome!</h1>
 					<p class="mobile-portfolio-text fadeIn">
-						My name is Dr. Kevin Chen and I am currently a first year Prosthodontic Resident at the San Francisco Veterans Affairs Medical Center in conjunction with the University of California San Francisco (UCSF). I obtained a BA Chemistry and Asian Studies degree from UNC Chapel Hill in 2017 and obtained my Doctorate of Dental Medicine at Kornberg School of Dentistry at Temple University (KSoD) in 2022. Before going into residency, I practiced as a full-time clinical faculty at KSoD as well as worked in a community clinic and private practice.
+						My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies in 2017, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University in 2022.
 					</p>
 					<p class="mobile-portfolio-text fadeIn">
-						During my time at Temple Dental, I developed a strong interest in Prosthodontics and Digital Dentistry. Additionally, with my experience in technology, art, photography, and design, I hope to bridge these skills of mine to show the quality of work I can deliver to patients through this portfolio. I always strive to learn with a strong foundation while pushing the boundaries of dentistry through innovation and creativity. I hope you can follow me on this wonderful journey!
+						Prior to residency, I served as a full-time clinical faculty at my alma mater while also practicing in both community health and private practice settings. I then completed my specialty training in Prosthodontics through the San Francisco Veterans Affairs Medical Center and the University of California, San Francisco (UCSF), where I had the privilege of caring for our nation's veterans.
 					</p>
 					<p class="mobile-portfolio-text fadeIn">
-						I like to hike, boulder, and play tennis on my free time. Traveling and eating new foods are activities that I enjoy outside of practicing dentistry. 
+						My passion for prosthodontics is rooted in precision and artistry. By combining my background in visual arts, photography, and design with advanced dental technology, I strive to elevate the standard of patient care and showcase the meticulous craftsmanship behind every restoration. I believe in practicing with a strong, evidence-based foundation while continuously pushing the boundaries of modern dentistry through innovation and creativity which hopefully shows through my portfolio here. 
+					</p>
+					<p class="mobile-portfolio-text fadeIn">
+						Outside of dentistry, you can usually find me outdoors hiking, bouldering, or playing tennis. I am also an avid traveler and foodie who loves exploring new cultures and cuisines.
 					</p>
 				</div>
 			</div>
