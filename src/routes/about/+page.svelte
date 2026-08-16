@@ -134,8 +134,7 @@
 					<Splide options={ { 
 						type: 'loop',
 						rewind: true,
-						width: '100%',
-						autoHeight: true,
+						height: '15rem',
 						autoWidth: true,
 						gap: '1rem',
 						padding: '2rem',
