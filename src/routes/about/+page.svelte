@@ -297,13 +297,11 @@
 		display: block;
 		background-color: var(--color-bg-0);
 		padding-top: 1em;
-		width: 90%;
 		padding-bottom: 1em;}
 	.mobile-pics {
 		width: 100%;}
 	.mobile-splide-pic {
-		height: 100%;
-		width: 100%;}
+		height: 100%;}
 	.mobile-footer-banner {
 		display: flex;
 		background-color: white;}
