@@ -235,7 +235,6 @@
 	.pics {
 		width: 100%;
 		height: 500px;
-
 	}
 	.splide-pic {
 		height: 480px;
@@ -298,7 +297,10 @@
 		display: block;
 		background-color: var(--color-bg-0);
 		padding-top: 1em;
+		width: 90%;
 		padding-bottom: 1em;}
+	.mobile-pics {
+		width: 100%;}
 	.mobile-splide-pic {
 		height: 100%;
 		width: 100%;}
