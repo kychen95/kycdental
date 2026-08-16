@@ -14,6 +14,7 @@
 <svelte:head>
 	<title>About Me</title>
 	<meta name="description" content="About Kevin" />
+	<meta name="viewport"/>
 </svelte:head>
 
 <section>
@@ -134,7 +135,7 @@
 						type: 'loop',
 						rewind: true,
 						width: '100%',
-						height: '15em',
+						height: '15rem',
 						autoWidth: true,
 						gap: '1rem',
 						padding: '2rem',
