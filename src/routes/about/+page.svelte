@@ -44,7 +44,7 @@
 					<div class="welcome-text-box">
 						<h1 class="welcome-header slideFromLeft">Welcome!</h1>
 						<p class="welcome-text slideFromRight">
-							My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies in 2017, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University in 2022.
+							My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University.
 						</p>
 						<p class="welcome-text slideFromLeft">
 							Prior to residency, I served as a full-time clinical faculty at my alma mater while also practicing in both community health and private practice settings. I then completed my specialty training in Prosthodontics through the San Francisco Veterans Affairs Medical Center and the University of California, San Francisco (UCSF), where I had the privilege of caring for our nation's veterans.
@@ -115,7 +115,7 @@
 				<div class="mobile-welcome">
 					<h1 class="mobile-portfolio-header fadeIn">Welcome!</h1>
 					<p class="mobile-portfolio-text fadeIn">
-						My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies in 2017, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University in 2022.
+						My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University.
 					</p>
 					<p class="mobile-portfolio-text fadeIn">
 						Prior to residency, I served as a full-time clinical faculty at my alma mater while also practicing in both community health and private practice settings. I then completed my specialty training in Prosthodontics through the San Francisco Veterans Affairs Medical Center and the University of California, San Francisco (UCSF), where I had the privilege of caring for our nation's veterans.
