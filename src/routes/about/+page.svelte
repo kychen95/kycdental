@@ -135,7 +135,6 @@
 						rewind: true,
 						width: '100%',
 						height: '15rem',
-						autoWidth: true,
 						gap: '1rem',
 						padding: '2rem',
 						} } aria-label="About Me Pictures">
