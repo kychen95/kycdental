@@ -13,8 +13,8 @@
 
 <svelte:head>
 	<title>About Me</title>
-	<meta name="description" content="About Kevin" />
-	<meta name="viewport"/>
+	<meta name="description" content="About Kevin">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </svelte:head>
 
 <section>
