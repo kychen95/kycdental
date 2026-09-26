@@ -95,7 +95,7 @@
 				<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
 				<div class="education-item">
 					<div class="education-item-ed slideFromLeft">
-						<h4 class="desktop-h4">Doctorate - DMD</h4>
+						<h4 class="desktop-h4">Doctorate of Dental Medicine - DMD</h4>
 					</div>
 					<div class="education-item-inst slideFromRight">
 						<h4 class="desktop-h4">
@@ -251,7 +251,7 @@
 					<hr transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
 					<div class="mobile-education-item">
 						<div class="mobile-education-item-ed slideFromRight">
-							<h4 class="mobile-h4">Doctorate - DMD</h4>
+							<h4 class="mobile-h4">Doctorate of Dental Medicine - DMD</h4>
 							<p>Maurice H. Kornberg School of Dentistry
 							<br>
 							<br>
