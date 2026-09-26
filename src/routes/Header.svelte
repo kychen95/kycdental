@@ -16,9 +16,6 @@
 				<a href="{base}/">HOME</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/'}>
-				<a href="{base}/#EXPERIENCE">EXPERIENCE</a>
-			</li>
-			<li aria-current={$page.url.pathname === '/'}>
 				<a href="{base}/#EDUCATION">EDUCATION</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/'}>
