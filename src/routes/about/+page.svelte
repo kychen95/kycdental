@@ -104,32 +104,6 @@
 		display: flex;
 		flex-direction: column;
 		background-color: var(--color-bg-2);}
-	
-	.memberships-banner {
-		display: flex;
-		margin-left: auto;
-		margin-right: auto;
-		margin-top: 2.5em;
-		margin-bottom: 2.5em;
-		justify-content: center;
-		width: 90%;}
-	.memberships {
-		display: flex;
-		flex-direction: column;
-		padding-left: 8vw;
-		padding-right: 8vw;
-		width: 100%;
-		justify-content: center;
-		align-items: left;
-		background-color: white;}
-	.membership-header {
-		padding-bottom: 1em;
-    	font-family:"Avenir-LT-W01_85-Heavy1475544";
-		color: var(--color-theme-1);}
-	.membership-text {
-		margin: 0;
-    	font-family:"Avenir-LT-W01_35-Light1475496";
-		color: var(--color-theme-1);}
 	.socials {
 		margin-top: 2em;
 		margin-bottom: 3em;}
@@ -137,7 +111,8 @@
 		display: flex;
 		margin-left: auto;
 		margin-right: auto;
-		margin-bottom: 2em;
+		margin-top: 2.5em;
+		margin-bottom: 2.5em;
 		justify-content: center;
 		width: 90%;}
 	.welcome {
