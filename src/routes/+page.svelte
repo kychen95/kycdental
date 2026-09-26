@@ -65,9 +65,12 @@
 					<p class="scaleFromCenter text-p">
 							My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University.
 						<br>
+						<br>
 							Prior to residency, I served as a full-time clinical faculty at my alma mater while also practicing in both community health and private practice settings. I then completed my specialty training in Prosthodontics through the San Francisco Veterans Affairs Medical Center and the University of California, San Francisco (UCSF), where I had the privilege of caring for our nation's veterans.
 						<br>
+						<br>
 							My passion for prosthodontics is rooted in precision and artistry. By combining my background in visual arts, photography, and design with advanced dental technology, I strive to elevate the standard of patient care and showcase the meticulous craftsmanship behind every restoration. I believe in practicing with a strong, evidence-based foundation while continuously pushing the boundaries of modern dentistry through innovation and creativity which hopefully shows through my portfolio here. 
+						<br>
 						<br>
 							Outside of dentistry, you can usually find me outdoors hiking, bouldering, or playing tennis. I am also an avid traveler and foodie who loves exploring new cultures and cuisines.
 					</p>
@@ -220,9 +223,12 @@
 						<p class="scaleFromCenter">
 							My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University.
 						<br>
+						<br>
 							Prior to residency, I served as a full-time clinical faculty at my alma mater while also practicing in both community health and private practice settings. I then completed my specialty training in Prosthodontics through the San Francisco Veterans Affairs Medical Center and the University of California, San Francisco (UCSF), where I had the privilege of caring for our nation's veterans.
 						<br>
+						<br>
 							My passion for prosthodontics is rooted in precision and artistry. By combining my background in visual arts, photography, and design with advanced dental technology, I strive to elevate the standard of patient care and showcase the meticulous craftsmanship behind every restoration. I believe in practicing with a strong, evidence-based foundation while continuously pushing the boundaries of modern dentistry through innovation and creativity which hopefully shows through my portfolio here. 
+						<br>
 						<br>
 							Outside of dentistry, you can usually find me outdoors hiking, bouldering, or playing tennis. I am also an avid traveler and foodie who loves exploring new cultures and cuisines.
 						</p>
