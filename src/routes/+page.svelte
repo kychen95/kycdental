@@ -406,46 +406,6 @@
 		padding-bottom: 4em;
 		text-align: center;
 		width: 700px;}
-	.experience-banner {
-		display: flex;
-		flex-direction: column;
-		background-color: white;
-		align-items: center;
-		justify-content: center;
-		width: 100%;}
-	.experience {
-		color: var(--color-theme-1);
-		width: 65%;
-		display: flex;
-		flex-direction: column;
-		padding-top: 3em;
-		padding-bottom: 3em;}
-	.experience-details {
-		margin-top: 2em;
-		display: inline-block;
-		width: 100%;}
-	.exp-detail-item {
-		display: flex;
-		flex-direction: row;
-		width: 100%;}
-	.exp-time {
-		text-align: right;
-		letter-spacing: 0.2em;
-		width: 50%;
-		padding: 0 3em;}
-	.exp-detail {
-		text-align: left;
-		width: 50%;
-		padding: 0 3em;}
-	.exp-list {
-		padding-left: 1em;
-		margin-top: 0.5em;
-		font-size: 0.85em;
-    	font-family:"Avenir-LT-W01_35-Light1475496";}
-	.exp-h4 {
-		font-size: 0.95em;
-    	font-family:"Avenir-LT-W01_85-Heavy1475544";
-		margin-bottom: 0em;}
 	.exp-p {
 		margin-top: 0.5em;
 		font-size: 1em;
@@ -453,14 +413,6 @@
 	.exp-hr {
 		width: 100%;
 		opacity: 0.3;}
-	.exp-button{
-		font-size: 1.25em;
-		display: flex;
-		margin: auto;
-		width: 8em;
-		text-align: center;
-		justify-content: center;
-		margin-top: 3em;}
 	.education-banner {
 		display: flex;
 		flex-direction: column;
@@ -478,7 +430,7 @@
 	.education-item {
 		display: flex;
 		flex-direction: row;
-		margin-top: 2em;
+		margin: 2em;
 		width: 100%;}
 	.education-item-ed {
 		text-align: right;
@@ -608,13 +560,6 @@
 		margin-right: 2em;
 		text-align: center;
 		color: var(--color-theme-1);}
-	.mobile-experience-banner {
-		background-color: white;
-		color: var(--color-theme-1);
-		padding-bottom: 2em;
-		margin-top: 1em;
-		margin-bottom: 1em;
-		letter-spacing: 0.2em;}
 	.mobile-education-banner {
 		background-color: white;
 		display: flex;}
