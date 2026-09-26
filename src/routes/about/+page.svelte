@@ -42,7 +42,6 @@
 			</div>
 			<div class="welcome-banner">
 				<div class="welcome">
-					<img class="headshot scaleFromCenter" src={pic1} alt="headshot" />
 					<div class="welcome-text-box">
 						<h1 class="welcome-header slideFromLeft">A Little About Me</h1>
 						<p class="welcome-text slideFromRight">
