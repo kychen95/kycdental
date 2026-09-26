@@ -181,6 +181,9 @@
 		font-size: 1.1em;
     	font-family:"Avenir-LT-W01_35-Light1475496";
 		color: var(--color-theme-1);}
+    .wideshot {
+		max-width: 100%;
+    }
 	.pics-banner {
 		display: block;
 		margin-left: auto;
