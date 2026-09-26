@@ -20,9 +20,6 @@
 		<a class="mobile-menu-text" href="{base}/portfolio"transition:fly={{ y: -15, delay: 50 * 3 }} on:click={() => (open = !open)}>
 			PORTFOLIO
 		</a>
-		<a class="mobile-menu-text" href="{base}/about"transition:fly={{ y: -15, delay: 50 * 4 }} on:click={() => (open = !open)}>
-			ABOUT ME
-		</a>
 	</div>
 
 	<hr transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
