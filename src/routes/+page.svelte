@@ -32,9 +32,9 @@
 						Maurice H. Kornberg School of Dentistry - DMD
 						</p>
 						<h4 class="slideFromLeft desktop-h4">Email:</h4>
-						<p class="slideFromRight profile-p">kychen95@gmail.com</p>
+						<p class="slideFromRight profile-p">kevin@napolitanodds.com</p>
 						<h4 class="slideFromLeft desktop-h4">Location:</h4>
-						<p class="slideFromRight profile-p">San Francisco, CA</p>
+						<p class="slideFromRight profile-p">Milpitas, CA</p>
 					</div>
 					<div class="resumecv slideFromLeft">
 						<a class="rbutton .profile-p" href="https://kycdental.com/resume.pdf">
@@ -61,7 +61,7 @@
 				<div class="intro">
 					<h1 class="scaleFromCenter desktop-h1">Hello, I'm Kevin!</h1>
 					<p class="scaleFromCenter text-p">
-						Welcome to my E-Portfolio! Take some time to explore the projects I am working on. This site is constantly being updated so it is still a work in a progress. Feel free to contact me with any inquiries or questions.
+						Welcome to my E-Portfolio! Take some time to explore the treatments I have done and the ones I am currently working on. Feel free to contact me with any inquiries or questions.
 					</p>
 				</div>
 		</div>
@@ -311,8 +311,7 @@
 				<h1 class="fadeIn desktop-h1">EDUCATION</h1>
 				<div class="education-item">
 					<div class="education-item-ed slideFromLeft">
-						<h4 class="desktop-h4">07/2023 - 06/2026</h4>
-						<p class="exp-p">Prosthodontic Certificate</p>
+						<h4 class="desktop-h4">Prosthodontic Certificate</h4>
 					</div>
 					<div class="education-item-inst slideFromRight">
 						<h4 class="desktop-h4">
@@ -326,8 +325,7 @@
 				<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
 				<div class="education-item">
 					<div class="education-item-ed slideFromLeft">
-						<h4 class="desktop-h4">08/2018 - 05/2022</h4>
-						<p class="exp-p">Doctorate's Degree - DMD</p>
+						<h4 class="desktop-h4">Doctorate - DMD</h4>
 					</div>
 					<div class="education-item-inst slideFromRight">
 						<h4 class="desktop-h4">
@@ -341,8 +339,7 @@
 				<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
 				<div class="education-item">
 					<div class="education-item-ed slideFromLeft">
-						<h4 class="desktop-h4">05/2017 - 05/2018</h4>
-						<p class="exp-p">Post-Baccalaureate Certificate</p>
+						<h4 class="desktop-h4">Post-Baccalaureate Certificate</h4>
 					</div>
 					<div class="education-item-inst slideFromRight">
 						<h4 class="desktop-h4">
@@ -353,12 +350,11 @@
 				<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
 				<div class="education-item">
 					<div class="education-item-ed slideFromLeft">
-						<h4 class="desktop-h4">08/2013 - 05/2017</h4>
-						<p class="exp-p">Bachelor's Degree</p>
+						<h4 class="desktop-h4">Bachelor's Degree</h4>
 					</div>
 					<div class="education-item-inst slideFromRight">
 						<h4 class="desktop-h4">
-							University of North Carolina Chapel Hill
+							University of North Carolina, Chapel Hill
 						</h4>
 						<p class="exp-p">
 							BA Chemistry and Asian Studies
