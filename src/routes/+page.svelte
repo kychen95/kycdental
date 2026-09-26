@@ -411,7 +411,7 @@
 		font-size: 1em;
     	font-family:"Avenir-LT-W01_35-Light1475496";}
 	.exp-hr {
-		width: 100%;
+		width: 70%;
 		opacity: 0.3;}
 	.education-banner {
 		display: flex;
@@ -425,8 +425,8 @@
 		width: 65%;
 		display: flex;
 		flex-direction: column;
-		padding-top: 3em;
-		padding-bottom: 3em;}
+		padding-top: 2em;
+		padding-bottom: 2em;}
 	.education-item {
 		display: flex;
 		flex-direction: row;
@@ -436,11 +436,11 @@
 		text-align: right;
 		letter-spacing: 0.2em;
 		width: 50%;
-		padding: 0 3em;}
+		padding: 0 2em;}
 	.education-item-inst {
 		text-align: left;
 		width: 50%;
-		padding: 0 3em;}
+		padding: 0 2em;}
 	.skills-banner {
 		display: flex;
 		width: 100%;
