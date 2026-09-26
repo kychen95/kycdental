@@ -24,9 +24,6 @@
 			<li aria-current={$page.url.pathname === '/portfolio'}>
 				<a href="{base}/portfolio">PORTFOLIO</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/about'}>
-				<a href="{base}/about">ABOUT ME</a>
-			</li>
 		</ul>
 	</nav>
 </header>
