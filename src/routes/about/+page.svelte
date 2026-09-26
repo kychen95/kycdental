@@ -20,27 +20,8 @@
 <section>
 	<MediaQuery query="(min-width: 1000px)" let:matches>
 		{#if matches}
-			<div class="memberships-banner">
-				<img class="wideshot scaleFromCenter" src={pic1} alt="wideshot" />
-				<div class="memberships">
-					<h1 class="membership-header slideFromLeft">Current Memberships</h1>
-					<p class="membership-text slideFromRight">
-						American College of Prosthodontics (ACP)
-					</p>
-					<p class="membership-text slideFromLeft">
-						American Academy of Maxillofacial Prosthetics (AAMP)
-					</p>
-					<div class="socials">
-						<a class="social-button fadeIn" href="https://www.instagram.com/kevinchendmd">
-							<img src={insta} alt="kycdental" />
-						</a>
-						<a class="social-button fadeIn" href="http://www.linkedin.com/in/kevinchendmd">
-							<img src={linkedin} alt="kycdental" />
-						</a>
-					</div>
-				</div>
-			</div>
 			<div class="welcome-banner">
+				<img class="wideshot scaleFromCenter" src={pic1} alt="wideshot" />
 				<div class="welcome">
 					<div class="welcome-text-box">
 						<h1 class="welcome-header slideFromLeft">A Little About Me</h1>
@@ -182,7 +163,7 @@
     	font-family:"Avenir-LT-W01_35-Light1475496";
 		color: var(--color-theme-1);}
     .wideshot {
-		max-width: 60%;
+		max-width: 50%;
     }
 	.pics-banner {
 		display: block;
