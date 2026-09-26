@@ -39,8 +39,8 @@
 						<p class="slideFromRight profile-p">Milpitas, CA</p>
 					</div>
 					<div class="resumecv slideFromLeft">
-						<a class="rbutton .profile-p" href="https://kycdental.com/resume.pdf">
-						Resume
+						<a class="rbutton .profile-p" href="https://kycdental.com/portfolio">
+						Portfolio
 						</a>
 						<!-- <a class="rbutton .profile-p" href="https://kycdental.com/cv.pdf">
 						Full CV
@@ -190,8 +190,8 @@
 						<h4 class="slideFromLeft mobile-h4">Location:</h4>
 						<p class="slideFromRight">Milpitas, CA</p>
 						<div class="mobile-resumecv slideFromLeft">
-							<a class="mobile-rbutton" href="https://kycdental.com/resume.pdf">
-							Resume
+							<a class="mobile-rbutton" href="https://kycdental.com/portfolio">
+							Portfolio
 							</a>
 							<!-- <a class="mobile-rbutton" href="https://kycdental.com/cv.pdf">
 							Full CV
