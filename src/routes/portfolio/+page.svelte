@@ -44,7 +44,7 @@
 				<div class="portfolio scaleFromCenter">
 					<h1 class="portfolio-header slideFromRight">Portfolio</h1>
 					<p class="portfolio-text slideFromLeft">
-						Check out some of my projects I worked on below! Pictures of current projects will be uploaded as each step is completed. Feel free to contact me with any questions on anything you find interesting and follow me on Instagram to see live updates and what I am up to in dentistry!
+						Check out some of my cases I worked on below! Pictures of current treatments will be uploaded as each step is completed. Feel free to contact me with any questions on anything you find interesting and follow me on Instagram to see live updates and what I am up to in dentistry!
 					</p>
 					<p class="portfolio-text slideFromLeft">
 						Photography Setup:
@@ -53,9 +53,9 @@
 						<br>
 						Lens - Sony 90mm f2.8 Macro Lens
 						<br>
-						Flash - Godox MF12
+						Flash - Godox MF12 Twin Flashes
 						<br>
-						Diffuser - Fixlite
+						Diffuser - Modified Fixlite
 					</p>
 					<div class="socials">
 						<a class="social-button portfolio-social fadeIn" href="https://www.instagram.com/kevinchendmd">
@@ -91,7 +91,7 @@
 				<div class="mobile-portfolio">
 					<h1 class="mobile-portfolio-header slideFromLeft">Portfolio</h1>
 					<p class="mobile-portfolio-text slideFromLeft">
-						Check out some of my projects I worked on below! Pictures of current projects will be uploaded as each step is completed. Feel free to contact me with any questions on anything you find interesting and follow me on Instagram to see live updates and what I am up to in dentistry!
+						Check out some of my cases I worked on below! Pictures of current treatments will be uploaded as each step is completed. Feel free to contact me with any questions on anything you find interesting and follow me on Instagram to see live updates and what I am up to in dentistry!
 					</p>
 					<p class="mobile-portfolio-text slideFromLeft">
 						Photography Setup:
@@ -100,9 +100,9 @@
 						<br>
 						Lens - Sony 90mm f2.8 Macro Lens
 						<br>
-						Flash - Godox MF12
+						Flash - Godox MF12 Twin Flashes
 						<br>
-						Diffuser - Fixlite
+						Diffuser - Modified Fixlite
 					</p>
 					<div class="mobile-socials">
 						<a class="mobile-social-button fadeIn" href="https://www.instagram.com/kevinchendmd">
