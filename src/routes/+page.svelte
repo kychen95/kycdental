@@ -313,7 +313,7 @@
 				<h1 class="fadeIn desktop-h1">EDUCATION</h1>
 				<div class="education-item">
 					<div class="education-item-ed slideFromLeft">
-						<h4 class="desktop-h4">Prosthodontic Certificate</h4>
+						<h4 class="desktop-h4">Certificate of Prosthodontics</h4>
 					</div>
 					<div class="education-item-inst slideFromRight">
 						<h4 class="desktop-h4">
@@ -336,17 +336,6 @@
 						<p class="exp-p">
 							Honors: Cum Laude
 						</p>
-					</div>
-				</div>
-				<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-				<div class="education-item">
-					<div class="education-item-ed slideFromLeft">
-						<h4 class="desktop-h4">Post-Baccalaureate Certificate</h4>
-					</div>
-					<div class="education-item-inst slideFromRight">
-						<h4 class="desktop-h4">
-							Maurice H. Kornberg School of Dentistry
-						</h4>
 					</div>
 				</div>
 				<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
@@ -481,9 +470,8 @@
 					<h1 class="fadeIn">EDUCATION</h1>
 					<div class="mobile-education-item">
 						<div class="mobile-education-item-ed slideFromRight">
-							<h4 class="mobile-h4">Prosthodontic Certificate</h4>
+							<h4 class="mobile-h4">Certificate of Prosthodontics</h4>
 							<p>University of California, San Francisco
-							<br>
 							<br>
 							San Francisco Veterans Affair Medical Center</p>
 						</div>
@@ -493,43 +481,25 @@
 					<hr transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
 					<div class="mobile-education-item">
 						<div class="mobile-education-item-ed slideFromRight">
-							<h4 class="mobile-h4">08/2018 - 05/2022</h4>
-							<p>Doctorate's Degree - DMD</p>
+							<h4 class="mobile-h4">Doctorate - DMD</h4>
+							<p>Maurice H. Kornberg School of Dentistry
+							<br>
+							Honors: Cum Laude
+							</p>
 						</div>
 						<div class="mobile-education-item-inst slideFromLeft">
-							<h4 class="mobile-h4">
-								Maurice H. Kornberg School of Dentistry
-							</h4>
-							<p>
-								Honors: Cum Laude
-							</p>
 						</div>
 					</div>
 					<hr transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
 					<div class="mobile-education-item">
 						<div class="mobile-education-item-ed slideFromRight">
-							<h4 class="mobile-h4">05/2017 - 05/2018</h4>
-							<p>Post-Baccalaureate Certificate</p>
-						</div>
-						<div class="mobile-education-item-inst slideFromLeft">
-							<h4 class="mobile-h4">
-								Maurice H. Kornberg School of Dentistry
-							</h4>
-						</div>
-					</div>
-					<hr transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="mobile-education-item">
-						<div class="mobile-education-item-ed slideFromRight">
-							<h4 class="mobile-h4">08/2013 - 05/2017</h4>
-							<p>Bachelor's Degree</p>
-						</div>
-						<div class="mobile-education-item-inst slideFromLeft">
-							<h4 class="mobile-h4">
-								University of North Carolina Chapel Hill
-							</h4>
-							<p>
-								BA Chemistry and Asian Studies
+							<h4 class="mobile-h4">Bachelor's Degree</h4>
+							<p>University of North Carolina, Chapel Hill
+							<br>
+							BA Chemistry and Asian Studies
 							</p>
+						</div>
+						<div class="mobile-education-item-inst slideFromLeft">
 						</div>
 					</div>
 					<hr transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
