@@ -67,247 +67,6 @@
 					</p>
 				</div>
 		</div>
-		<div id="EXPERIENCE" class="experience-banner">
-			<div class="experience">
-				<h1 class="fadeIn desktop-h1">EXPERIENCE</h1>
-				<div class="experience-details">
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							07/2022 - 06/2023	
-							</h4>
-							<p class="exp-p">
-							Dr. Aaron Segal, DDS, FACP	
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							Full-time Dental Instructor/Clinician at Temple Dental
-							</h4>
-							<ul class="exp-list">
-								<li>
-									Comprehensive clinical care dentist in Faculty Practice
-								</li>
-								<li>
-									Comprehensive care dentist at Kleinlife, a satellite community clinic for elderly Holocaust survivors
-								</li>
-								<li>
-									Row instructor for clinical students and pre-clinical students
-								</li>
-								<li>
-									Expanding and integrating digital dentistry into clinical and pre-clinical settings
-								</li>
-							</ul>
-						</div>
-					</div>
-					<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							07/2022 - 06/2023	
-							</h4>
-							<p class="exp-p">
-							Lauren Eveland, RDH, MHA
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							Part-Time Dental Associate at Simply Beautiful Smiles
-							</h4>
-							<ul class="exp-list">
-								<li>
-									Work on Saturdays doing comprehensive care dentistry
-								</li>
-							</ul>
-						</div>
-					</div>
-					<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							06/2022 - 06/2022	
-							</h4>
-							<p class="exp-p">
-							Weill Cornell Medicine	
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							Human Performance Hackathon
-							</h4>
-							<ul class="exp-list">
-								<li>
-									Worked with team of 6 to design and prototype an application software for dental flossing and other habits using behavioral science concepts
-								</li>
-								<li>
-									Conceptualized scalability and expansion of market size for prototyped product
-								</li>
-								<li>
-									Won 1st place and "Most Scalable Design" Award
-								</li>
-							</ul>
-						</div>
-					</div>
-					<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							02/2022 - 05/2022	
-							</h4>
-							<p class="exp-p">
-							Dr. Mohammed Elsafi  DDS, MS, FACP, FAAMP	
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							Maxillofacial Prosthodontist Lab Assistant
-							</h4>
-							<ul class="exp-list">
-								<li>
-									Waxed up facial prostheses for maxillofacial patients
-								</li>
-								<li>
-									Set teeth for removable dentures for patients that required obturators
-								</li>
-								<li>
-									Assisted with integration of digital dentistry with maxillofacial prostheses using 3Shape
-								</li>
-							</ul>
-						</div>
-					</div>
-					<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							01/2022 - 05/2022	
-							</h4>
-							<p class="exp-p">
-							Dr. Geraldine Weinstein  DMD, MPH	
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							Digital Technician Intern for KSoD and GDCL
-							</h4>
-							<ul class="exp-list">
-								<li>
-									Learned 3Shape TRIOS design studio with clinical integration of smile design
-								</li>
-								<li>
-									Digitally designed, milled and glazed monolithic zirconia crowns using 3Shape
-								</li>
-								<li>
-									Scanned and 3D printed analog models for digital integration of case workflow
-								</li>
-								<li>
-									Learned, used, and taught Cerec Primescan, 3Shape, Medit intraoral scanners
-								</li>
-							</ul>
-						</div>
-					</div>
-					<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							04/2021 - 04/2022	
-							</h4>
-							<p class="exp-p">
-							Dr. Joseph Breitman  DMD, MS, FACP
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							Lab Assistant at Prosthodontics Limited PC
-							</h4>
-							<ul class="exp-list">
-								<li>
-									Assisted prosthodontic treatment procedures
-								</li>
-								<li>
-									Fabricating record bases, occlusal rims, and setting teeth for removable dentures
-								</li>
-								<li>
-									Observed porcelain stacking, e.max press, and digital integration of lab work with exocad
-								</li>
-							</ul>
-						</div>
-					</div>
-					<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							09/2019 - 04/2022	
-							</h4>
-							<p class="exp-p">
-							Maurice H. Kornberg School of Dentistry	
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							Academic Affairs Pre-Clinical Tutor for KSoD
-							</h4>
-							<ul class="exp-list">
-								<li>
-									After-hours preclinic tutoring for D1/D2 students covering Restorative I to Restorative IV
-								</li>
-								<li>
-									Helped students with wax-ups, direct/indirect restorations, crown and bridge, dentures
-								</li>
-							</ul>
-						</div>
-					</div>
-					<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							12/2021 - 12/2021
-							</h4>
-							<p class="exp-p">
-							Greater New York Academy of Prosthodontics
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							67th Annual Scientific Session of GNYAP
-							</h4>
-							<ul class="exp-list">
-								<li>
-									Attended two-day session of CE courses presented by leading practitioners on the art and science of modern prosthodontics and regenerative therapy
-								</li>
-								<li>
-									Spoke with program directors, faculties, residents and attended poster exhibit
-								</li>
-							</ul>
-						</div>
-					</div>
-					<hr class="exp-hr" transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
-					<div class="exp-detail-item">
-						<div class="exp-time slideFromLeft">
-							<h4 class="exp-h4">
-							10/2021 - 10/2021
-							</h4>
-							<p class="exp-p">
-							UNC Chapel Hill School of Dentistry 
-							</p>
-						</div>
-						<div class="exp-detail slideFromRight">
-							<h4 class="exp-h4">
-							UNC Chapel Hill Prosthodontic Externship
-							</h4>
-							<ul class="exp-list">
-								<li>									
-									Observed and assisted residents with prosthodontic procedures
-								</li>
-								<li>
-									Attended prosthodontic and periodontic lectures with first year residents on dental materials and implant osseointegration
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<a class="rbutton exp-button profile-p fadeIn" href="https://kycdental.com/cv.pdf">Download Full CV</a>
-			</div>
-		</div>
 		<div id="EDUCATION" class="education-banner">
 			<div class="education">
 				<h1 class="fadeIn desktop-h1">EDUCATION</h1>
@@ -457,14 +216,6 @@
 						</p>
 					</div>
 			</div>
-			<div id="EXPERIENCE" class="mobile-experience-banner">
-				<div class="mobile-experience">
-					<h1 class="fadeIn mobile-h1">EXPERIENCE</h1>
-					<a class="mobile-rbutton scaleFromCenter" href="https://kycdental.com/cv.pdf">
-						Download Full CV
-					</a>
-				</div>
-			</div>
 			<div id="EDUCATION" class="mobile-education-banner">
 				<div class="mobile-education">
 					<h1 class="fadeIn">EDUCATION</h1>
@@ -472,6 +223,7 @@
 						<div class="mobile-education-item-ed slideFromRight">
 							<h4 class="mobile-h4">Certificate of Prosthodontics</h4>
 							<p>University of California, San Francisco
+							<br>
 							<br>
 							San Francisco Veterans Affair Medical Center</p>
 						</div>
@@ -484,6 +236,7 @@
 							<h4 class="mobile-h4">Doctorate - DMD</h4>
 							<p>Maurice H. Kornberg School of Dentistry
 							<br>
+							<br>
 							Honors: Cum Laude
 							</p>
 						</div>
@@ -495,6 +248,7 @@
 						<div class="mobile-education-item-ed slideFromRight">
 							<h4 class="mobile-h4">Bachelor's Degree</h4>
 							<p>University of North Carolina, Chapel Hill
+							<br>
 							<br>
 							BA Chemistry and Asian Studies
 							</p>
