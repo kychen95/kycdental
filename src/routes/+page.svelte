@@ -29,7 +29,9 @@
 						<p class="slideFromRight profile-p">
 						UCSF/SFVA Prosthodontics
 						<br>
-						Maurice H. Kornberg School of Dentistry - DMD
+						Maurice H. Kornberg School of Dentistry
+						<br>
+						UNC Chapel Hill
 						</p>
 						<h4 class="slideFromLeft desktop-h4">Email:</h4>
 						<p class="slideFromRight profile-p">kevin@napolitanodds.com</p>
@@ -431,12 +433,14 @@
 						<p class="slideFromRight">
 						UCSF/SFVA Prosthodontics
 						<br>
-						Maurice H. Kornberg School of Dentistry - DMD
+						Maurice H. Kornberg School of Dentistry
+						<br>
+						UNC Chapel Hill
 						</p>
 						<h4 class="slideFromLeft mobile-h4">Email:</h4>
-						<p class="slideFromRight">kychen95@gmail.com</p>
+						<p class="slideFromRight">kevin@napolitanodds.com</p>
 						<h4 class="slideFromLeft mobile-h4">Location:</h4>
-						<p class="slideFromRight">San Francisco, CA</p>
+						<p class="slideFromRight">Milpitas, CA</p>
 						<div class="mobile-resumecv slideFromLeft">
 							<a class="mobile-rbutton" href="https://kycdental.com/resume.pdf">
 							Resume
@@ -460,7 +464,7 @@
 					<div class="mobile-intro">
 						<h1 class="scaleFromCenter mobile-h1">Hello, I'm Kevin!</h1>
 						<p class="scaleFromCenter">
-							Welcome to my E-Portfolio! Take some time to explore the projects I am working on. This site is constantly being updated so it is still a work in a progress. Feel free to contact me with any inquiries or questions.
+							Welcome to my E-Portfolio! Take some time to explore the treatments I have done and the ones I am currently working on. Feel free to contact me with any inquiries or questions.
 						</p>
 					</div>
 			</div>
@@ -477,16 +481,13 @@
 					<h1 class="fadeIn">EDUCATION</h1>
 					<div class="mobile-education-item">
 						<div class="mobile-education-item-ed slideFromRight">
-							<h4 class="mobile-h4">07/2023 - 06/2026</h4>
-							<p>Prosthodontic Certificate</p>
+							<h4 class="mobile-h4">Prosthodontic Certificate</h4>
+							<p>University of California, San Francisco
+							<br>
+							<br>
+							San Francisco Veterans Affair Medical Center</p>
 						</div>
 						<div class="mobile-education-item-inst slideFromLeft">
-							<h4 class="mobile-h4">
-							University of California, San Francisco
-							<br>
-							<br>
-							San Francisco Veterans Affair Medical Center
-							</h4>
 						</div>
 					</div>
 					<hr transition:scale={{ duration: 750, easing: quadOut, opacity: 1 }} />
