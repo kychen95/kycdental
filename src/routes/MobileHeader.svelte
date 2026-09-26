@@ -14,9 +14,6 @@
 		<a class="mobile-menu-text" href="{base}/#HOME"transition:fly={{ y: -15, delay: 50 * 0 }} on:click={() => (open = !open)}>
 			HOME
 		</a>
-		<a class="mobile-menu-text" href="{base}/#EXPERIENCE"transition:fly={{ y: -15, delay: 50 * 1 }} on:click={() => (open = !open)}>
-			EXPERIENCE
-		</a>
 		<a class="mobile-menu-text" href="{base}/#EDUCATION"transition:fly={{ y: -15, delay: 50 * 2 }} on:click={() => (open = !open)}>
 			EDUCATION
 		</a>
