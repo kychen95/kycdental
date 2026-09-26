@@ -43,7 +43,7 @@
 			<div class="welcome-banner">
 				<div class="welcome">
 					<div class="welcome-text-box">
-						<h1 class="welcome-header slideFromLeft">Welcome!</h1>
+						<h1 class="welcome-header slideFromLeft">A Little About Me</h1>
 						<p class="welcome-text slideFromRight">
 							My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University.
 						</p>
@@ -57,28 +57,6 @@
 							Outside of dentistry, you can usually find me outdoors hiking, bouldering, or playing tennis. I am also an avid traveler and foodie who loves exploring new cultures and cuisines.
 						</p>
 					</div>
-				</div>
-			</div>
-			<div class="pics-banner">
-				<div class="pics fadeIn">
-					<Splide options={ { 
-						type: 'loop',
-						rewind: true,
-						fixedHeight: '480px',
-						autoWidth: true,
-						gap: '1rem',
-						// padding: '2rem',
-						} } aria-label="About Me Pictures">
-						<SplideSlide>
-							<img class="splide-pic" src={about1} alt="about1" />
-						</SplideSlide>
-						<SplideSlide>
-							<img class="splide-pic" src={about2} alt="about2" />
-						</SplideSlide>
-						<SplideSlide>
-							<img class="splide-pic" src={about3} alt="about3" />
-						</SplideSlide>
-					</Splide>
 				</div>
 			</div>
 			<div class="footer-banner">
@@ -114,7 +92,7 @@
 			<img class="mobile-wideshot scaleFromCenter" src={pic1} alt="wideshot" />
 			<div class="mobile-welcome-banner">
 				<div class="mobile-welcome">
-					<h1 class="mobile-portfolio-header fadeIn">Welcome!</h1>
+					<h1 class="mobile-portfolio-header fadeIn">A Little About Me</h1>
 					<p class="mobile-portfolio-text fadeIn">
 						My name is Dr. Kevin Chen, and I am a Prosthodontist where I specialize in comprehensive full-mouth rehabilitations and the restoration of missing teeth, having completed an additional official ADA recognized three-year residency. My academic foundation began at UNC Chapel Hill, where I earned a BA in Chemistry and Asian Studies, followed by my Doctor of Medicine in Dentistry (DMD) from the Kornberg School of Dentistry at Temple University.
 					</p>
@@ -127,28 +105,6 @@
 					<p class="mobile-portfolio-text fadeIn">
 						Outside of dentistry, you can usually find me outdoors hiking, bouldering, or playing tennis. I am also an avid traveler and foodie who loves exploring new cultures and cuisines.
 					</p>
-				</div>
-			</div>
-			<div class="mobile-pics-banner">
-				<div class="mobile-pics fadeIn">
-					<Splide options={ { 
-						type: 'loop',
-						rewind: true,
-						height: '15rem',
-						autoWidth: true,
-						gap: '1rem',
-						padding: '2rem',
-						} } aria-label="About Me Pictures">
-						<SplideSlide>
-							<img class="mobile-splide-pic" src={about1} alt="about1" />
-						</SplideSlide>
-						<SplideSlide>
-							<img class="mobile-splide-pic" src={about2} alt="about2" />
-						</SplideSlide>
-						<SplideSlide>
-							<img class="mobile-splide-pic" src={about3} alt="about3" />
-						</SplideSlide>
-					</Splide>
 				</div>
 			</div>
 			<div class="mobile-footer-banner">
